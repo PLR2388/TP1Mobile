@@ -10,7 +10,7 @@ Le second bouton permet d'ouvrir Youtube dans une WebView :
 
 ![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/Webview.png?raw=true)
 
-Le troisième bouton ouvre une page rouge associé à l'université Laval :
+Le troisième bouton ouvre une page rouge associée à l'université Laval :
 
 ![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/ULaval.png?raw=true)
 
