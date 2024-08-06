@@ -1,19 +1,35 @@
 # TP1Mobile
 
-Application Android très simple composée de 4 boutons.
+A very simple Android application consisting of 4 buttons.
 
-![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/MainScreen.png?raw=true)
+## Screenshots
 
-Le premier bouton permet d'ouvrir le site Youtube grâce à une application externe.
+### Main Screen
+![Main Screen](https://github.com/PLR2388/TP1Mobile/blob/master/image/MainScreen.png?raw=true)
 
-Le second bouton permet d'ouvrir Youtube dans une WebView :
+### YouTube in WebView
+![YouTube in WebView](https://github.com/PLR2388/TP1Mobile/blob/master/image/Webview.png?raw=true)
 
-![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/Webview.png?raw=true)
+### Laval University Page
+![Laval University Page](https://github.com/PLR2388/TP1Mobile/blob/master/image/ULaval.png?raw=true)
 
-Le troisième bouton ouvre une page rouge associée à l'université Laval :
+### My Profile
+![My Profile](https://github.com/PLR2388/TP1Mobile/blob/master/image/MonProfil.png?raw=true)
 
-![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/ULaval.png?raw=true)
+## Features
 
-Enfin, le dernier bouton permet d'avoir des informations générales sur moi :
+- **Open YouTube with External Application:** The first button opens the YouTube site using an external application.
+- **Open YouTube in WebView:** The second button opens YouTube within a WebView component.
+- **Laval University Page:** The third button opens a red page associated with Laval University.
+- **Profile Information:** The last button displays general information about me.
 
-![alt text](https://github.com/PLR2388/TP1Mobile/blob/master/image/MonProfil.png?raw=true)
+## Installation
+
+To run this application, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/PLR2388/TP1Mobile.git
+    ```
+2. Open the project in Android Studio.
+3. Build and run the application on an Android device or emulator.
